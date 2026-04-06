@@ -1,0 +1,5 @@
+.venv
+imd_2025.xlsx
+spark-warehouse/
+good_deals.csv/
+data.csv
