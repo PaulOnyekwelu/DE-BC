@@ -1,0 +1,7 @@
+#!/bin/bash
+
+aws emr-serverless start-job-run \
+    --application-id emr-application-id \
+    --execution-role-arn iamrole-arn-with-s3-fullaccess \
+    --job-driver file://payload.json \
+    --configuration-overrides file://configuration-overrides.json

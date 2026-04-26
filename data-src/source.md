@@ -1,0 +1,1 @@
+Download the listings.csv.gz and reviews.csv.gz datasets from https://insideairbnb.com/get-the-data/ and place in data-src folder

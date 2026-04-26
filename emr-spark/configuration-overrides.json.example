@@ -1,0 +1,7 @@
+{
+    "monitoringConfiguration": {
+        "s3MonitoringConfiguration": {
+            "logUri": "S3 link for logs folder"
+        }
+    }
+}

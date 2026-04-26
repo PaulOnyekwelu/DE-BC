@@ -1,0 +1,13 @@
+{
+    "sparkSubmit": {
+        "entryPoint": "S3 link to python spark code",
+        "entryPointArguments": [
+            "--listings",
+            "S3 link to listings dataset",
+            "--reviews",
+            "S3 link to reviews dataset",
+            "--output",
+            "S3 link for outputs folder"
+        ]
+    }
+}

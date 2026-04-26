@@ -3,3 +3,9 @@ imd_2025.xlsx
 spark-warehouse/
 good_deals.csv/
 data.csv
+listings.csv.gz
+reviews.csv.gz
+*:Zone.Identifier
+configuration-overrides.json
+payload.json
+run_job.sh
